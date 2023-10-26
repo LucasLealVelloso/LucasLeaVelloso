@@ -48,9 +48,9 @@
 <a href = "mailto:llealveloso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucaslealveloso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://lucaslealveloso.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  target="_blank"></a> 
-
  
 
   
-![snake gif](https://github.com/YOUR_USERNAME/LucasLea1Veloso/blob/output/github-contribution-grid-snake.gif)  
+![snake gif](https://github.com/LucasLea1Veloso/LucasLea1Veloso/blob/output/github-contribution-grid-snake-dark.svg)  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
